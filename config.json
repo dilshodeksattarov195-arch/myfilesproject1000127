@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfecrypt",
+        "uuid": 92202,
+        "checksum": "nh75sh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
